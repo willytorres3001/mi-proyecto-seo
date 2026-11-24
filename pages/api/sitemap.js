@@ -3,9 +3,7 @@ import fs from "fs/promises";
 import path from "path";
 
 const BASE_URL =
-  (process.env.NEXT_PUBLIC_SITE_URL ||
-    "https://mi-proyecto-fdi865n56-acme-4631.vercel.app"
-  ).replace(/\/$/, "");
+  "https://mi-proyecto-seo-seven-tawny.vercel.app";
 
 export default async function handler(req, res) {
   try {
