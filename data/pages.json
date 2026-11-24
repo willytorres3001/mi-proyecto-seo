@@ -1,0 +1,21 @@
+
+[
+  {
+    "slug": "",
+    "title": "Inicio",
+    "published": true,
+    "lastModified": "2026-11-23"
+  },
+  {
+    "slug": "blog",
+    "title": "Blog de Tecnología",
+    "published": true,
+    "lastModified": "2026-11-23"
+  },
+  {
+    "slug": "contacto",
+    "title": "Contacto",
+    "published": true,
+    "lastModified": "2026-11-23"
+  }
+]
