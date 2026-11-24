@@ -19,6 +19,12 @@ export default function Home() {
       <Head>
         <title>Mi Sitio Optimizado - Home</title>
 
+        {/* Verificación de Google Search Console */}
+        <meta
+          name="google-site-verification"
+          content="RVVj4gYnxnaHjPQql2z8HOhgLqM6z-PRWnDR7cMi4H8"
+        />
+
         <meta
           name="description"
           content="Aprende sobre optimización SEO y rendimiento en Next.js."
@@ -47,7 +53,7 @@ export default function Home() {
         <meta property="og:type" content="website" />
       </Head>
 
-       <main
+      <main
         style={{
           padding: "40px",
         }}
